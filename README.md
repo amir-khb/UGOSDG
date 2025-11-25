@@ -44,7 +44,7 @@
 
 <img width="891" height="708" alt="Screenshot 2025-11-25 at 10 06 20" src="https://github.com/user-attachments/assets/816fee0e-b2ba-49df-895b-512c6e3359f3" />
 
-# Computation Analysis
+# Computational Analysis
 <img width="854" height="276" alt="Screenshot 2025-11-25 at 10 07 53" src="https://github.com/user-attachments/assets/9d01bca9-9f24-4dd7-8eb7-151359d34ca3" />
 
 
