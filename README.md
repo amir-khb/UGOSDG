@@ -8,7 +8,7 @@
 
  Faculty of Engineering and Natural Sciences (VPALab), Sabanci University, Istanbul, Turkiye
 
-[[[Paper Link](https://arxiv.org/abs/2506.09460)]] 
+[[[Paper Link](https://ieeexplore.ieee.org/document/11749588)]] 
 </div>
 
 
